@@ -7,8 +7,8 @@
   <!-- Subtítulo potente -->
   <h3>🚀 Full Stack Developer (Laravel & Angular)</h3>
   
-  <!-- Badge de Australia (Vital para tu objetivo) -->
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Australia%20%2F%20Remote-blue?style=for-the-badge&logo=globe&logoColor=white"/>
+  <!-- Badge General de Open to Work -->
+  <img src="https://img.shields.io/badge/Available%20for-Hire-2ea44f?style=for-the-badge&logo=check&logoColor=white"/>
   
   <br/><br/>
   
@@ -32,7 +32,6 @@
 I'm a developer from **Barcelona** obsessed with efficiency. I don't just write code; I build solutions that solve real-world headaches.
 
 - 🔭 **Current Project:** Building [StockFast](https://stockfast.vercel.app), a resale marketplace platform optimized for speed.
-- 🌏 **Goal:** Relocating to **Australia** to bring my Full Stack expertise to new markets.
 - 🛠 **Stack Focus:** Mastering Clean Architecture in **Laravel** and reactivity in **Angular**.
 - ⚡ **Fun fact:** I love building tools to **automate my own repetitive tasks** (and analyzing vehicle specs for fun).
 
