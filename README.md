@@ -46,15 +46,3 @@ I'm a developer from **Barcelona** obsessed with efficiency. I don't just write 
 | <img src="https://skillicons.dev/icons?i=angular,ts,html,css,sass,figma&perline=3" /> | <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman&perline=3" /> |
 
 </div>
-
-<br/>
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <!-- REEMPLAZA 'TU_USUARIO_GITHUB' CON TU USUARIO REAL ABAJO -->
-  <a href="https://github.com/TU_USUARIO_GITHUB">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
-</div>
