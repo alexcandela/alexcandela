@@ -1,21 +1,61 @@
-<h1 align="center">Hi 👋, I'm Alex from Barcelona, Spain</h1>
-<h3 align="center">A full stack developer</h3>
+<div align="center">
+  
+  <!-- Header con Badges de Estado -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
+  <h1>Hi there, I'm Alex Candela</h1>
+  
+  <!-- Subtítulo potente -->
+  <h3>🚀 Full Stack Developer (Laravel & Angular)</h3>
+  
+  <!-- Badge de Australia (Vital para tu objetivo) -->
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Australia%20%2F%20Remote-blue?style=for-the-badge&logo=globe&logoColor=white"/>
+  
+  <br/><br/>
+  
+  <!-- Redes Sociales estilizadas -->
+  <a href="https://linkedin.com/in/alex-candela" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://myportfolio-nu-lilac.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:alex.candelaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-- 🔭 I’m currently working on [Stockfast](https://stockfast.vercel.app)
+</div>
 
-- 🌱 I’m currently learning **Angular and Laravel**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://myportfolio-nu-lilac.vercel.app/](https://myportfolio-nu-lilac.vercel.app/)
+### 👨‍💻 About Me
 
-- 📫 How to reach me **alex.candelaa@gmail.com**
+I'm a developer from **Barcelona** obsessed with efficiency. I don't just write code; I build solutions that solve real-world headaches.
 
-- ⚡ Fun fact **I love building tools to automate my own repetitive tasks.**
+- 🔭 **Current Project:** Building [StockFast](https://stockfast.vercel.app), a resale marketplace platform optimized for speed.
+- 🌏 **Goal:** Relocating to **Australia** to bring my Full Stack expertise to new markets.
+- 🛠 **Stack Focus:** Mastering Clean Architecture in **Laravel** and reactivity in **Angular**.
+- ⚡ **Fun fact:** I love building tools to **automate my own repetitive tasks** (and analyzing vehicle specs for fun).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alex candela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex candela" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 💻 Tech Stack
 
+<div align="center">
+
+| **Frontend** | **Backend** | **DevOps & Tools** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=angular,ts,html,css,sass,figma&perline=3" /> | <img src="https://skillicons.dev/icons?i=laravel,php,postgres,mysql&perline=3" /> | <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,postman&perline=3" /> |
+
+</div>
+
+<br/>
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <!-- REEMPLAZA 'TU_USUARIO_GITHUB' CON TU USUARIO REAL ABAJO -->
+  <a href="https://github.com/TU_USUARIO_GITHUB">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
