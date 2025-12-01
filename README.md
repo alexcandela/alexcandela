@@ -1,18 +1,12 @@
 <div align="center">
-  
-  <!-- Header con Badges de Estado -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30">
   <h1>Hi there, I'm Alex Candela</h1>
   
-  <!-- Subtítulo potente -->
   <h3>🚀 Full Stack Developer (Laravel & Angular)</h3>
   
-  <!-- Badge General de Open to Work -->
   <img src="https://img.shields.io/badge/Available%20for-Hire-2ea44f?style=for-the-badge&logo=check&logoColor=white"/>
   
   <br/><br/>
   
-  <!-- Redes Sociales estilizadas -->
   <a href="https://linkedin.com/in/alex-candela" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
